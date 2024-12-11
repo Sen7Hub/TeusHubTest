@@ -1,6 +1,6 @@
 return(function(UiLoader.Window = UiLoader.Fluent:CreateWindow(
     {
-        Title = "Tsuo Hub",
+        Title = "Teus Hub",
         SubTitle = "Develope by vMh~ (discord.gg/tsuoscripts)",
         TabWidth = 160,
         Size = UDim2.fromOffset(500, 290),
