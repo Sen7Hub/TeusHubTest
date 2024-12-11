@@ -1,4 +1,3 @@
-
 return(function(local DiscordUrlTextLabel = Instance.new("TextLabel", ScreenGui);
 DiscordUrlTextLabel["BorderSizePixel"] = 0;
 DiscordUrlTextLabel["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
